@@ -1,0 +1,20 @@
+{
+  "name": "nexo",
+  "version": "1.0.0",
+  "description": "A MongoDB inspired API for MySQL querys",
+  "main": "source/index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [
+    "MySQL", "MongoDB", "Knex", "Database", "Query", "SQL"
+  ],
+  "author": "Santiago Taschetta",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^2.3.3"
+  },
+  "devDependencies": {
+    "vitest": "^0.20.3"
+  }
+}
